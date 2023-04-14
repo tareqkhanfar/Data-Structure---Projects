@@ -1,4 +1,4 @@
-# Calculator using InfixToPostFix Algorithm (using stack Data Structure)
+# Calculator using Infix To Post Fix Algorithm (using stack Data Structure)
 
 
 https://user-images.githubusercontent.com/98056148/232052843-3f45c43f-3149-45b5-ac73-1338909aa6b9.mp4
